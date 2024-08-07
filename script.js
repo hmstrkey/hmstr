@@ -313,7 +313,7 @@ const maps = {
             {id: 11, x: 0, y: 5, width: 2, height: 1, direction: 'horizontal', color: 'green'},
             {id: 12, x: 0, y: 2, width: 2, height: 1, direction: 'horizontal', color: 'blue'},
         ],
-        key: {id: 10, x: 0, y: 2, width: 2, height: 1, direction: 'horizontal'},
+        key: {id: 12, x: 0, y: 2, width: 2, height: 1, direction: 'horizontal'},
         exitPosition: {x: 6, y: 2}
     },
 };
