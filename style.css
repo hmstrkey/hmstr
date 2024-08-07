@@ -316,8 +316,8 @@ a:active {
     top: 125%; /* Position above the tooltip */
     left: 50%;
     margin-left: -250px;
-    opacity: 0;
-    transition: opacity 0.3s;
+    opacity: 1;
+    transition: opacity 1s;
 }
 
 .tooltip:hover .tooltiptext,
