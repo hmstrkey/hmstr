@@ -351,7 +351,7 @@ a:active {
 .hamster-theme .green .block-child {
     position: relative;
     border-radius: unset;
-    background-color: #39ff14;
+    background-color: #00ff00;
     border: 1px solid #0a0;
 }
 
@@ -361,7 +361,7 @@ a:active {
     top: 50%;
     width: 14px;
     height: 10px;
-    background-color: #39ff14;
+    background-color: #00ff00;
     transform: translateY(-50%);
 }
 
