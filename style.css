@@ -95,7 +95,7 @@ a:active {
     justify-content: center;
     align-items: center;
     box-sizing: border-box;
-    opacity: 0.8;
+    opacity: 1;
 }
 
 .block.horizontal {
