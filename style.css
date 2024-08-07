@@ -9,7 +9,7 @@ body {
     font-family: 'Roboto', sans-serif;
     line-height: 1.6;
     font-size: 15px;
-    background-color: #0e0e10;
+    background-color: #000000;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -48,7 +48,7 @@ a:active {
     align-items: center;
     height: 100vh;
     /*margin: 0 100px;*/
-    background-color: #0e0e10;
+    background-color: #000000;
     font-family: "Roboto", sans-serif;
     /*width: 100%;*/
     max-width: 1160px;
@@ -307,7 +307,7 @@ a:active {
     visibility: hidden;
     width: 300px;
     background-color: #fff;
-    color: #0e0e10;
+    color: #000000;
     text-align: center;
     border-radius: 6px;
     padding: 5px 0;
