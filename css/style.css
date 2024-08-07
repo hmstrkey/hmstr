@@ -1,5 +1,5 @@
 body {
-  background-color: #f0f0f0; /* Замените этот цвет на любой, который вам нравится */
+  background-color: #1c1c24; /* Замените этот цвет на любой, который вам нравится */
   background-image: url('../images/fone'); /* Замените 'path/to/your/image.jpg' на путь к вашему изображению */
   background-size: cover; /* Изображение будет покрывать весь фон */
   background-repeat: no-repeat; /* Изображение не будет повторяться */
