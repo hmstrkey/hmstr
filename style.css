@@ -438,16 +438,3 @@ a:active {
 .hamster-theme .key {
     padding: 0;
 }
-
-.key-generator {
-    display: flex;
-    align-items: center;
-    margin-top: 15px;
-}
-
-.key-generator-link {
-    color: #0000ff;
-    margin-left: 15px;
-}
-
-
