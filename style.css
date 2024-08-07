@@ -278,7 +278,7 @@ a:active {
 
 #update-puzzle-time {
     display: inline-block;
-    background-color: #D93334;
+    background-color: #ff0000;
     color: white;
     font-size: 0.75em;
     font-weight: bold;
@@ -340,7 +340,7 @@ a:active {
 }
 
 .important {
-    color: #D93334;
+    color: #ff0000;
     font-weight: bold;
 }
 
