@@ -390,7 +390,7 @@ a:active {
 .hamster-theme .red .block-child {
     position: relative;
     border-radius: unset;
-    background-color: #EB3729;
+    background-color: #ff0000;
     border: 1px solid #a00;
 }
 
@@ -400,7 +400,7 @@ a:active {
     left: 50%;
     width: 10px;
     height: 14px;
-    background-color: #EB3729;
+    background-color: #ff0000;
     transform: translateX(-50%);
 }
 
