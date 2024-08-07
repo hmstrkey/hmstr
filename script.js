@@ -371,7 +371,7 @@ function initGrid(date) {
     const exit = document.createElement('div');
     exit.classList.add('exit');
     exit.style.transform = `translate(${exitPosition.x * blockSize}px, ${exitPosition.y * blockSize}px)`;
-    exit.innerHTML = '🚪';
+    exit.innerHTML = '🔑';
     grid.appendChild(exit);
 }
 
