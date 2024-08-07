@@ -298,7 +298,7 @@ const maps = {
         key: {id: 12, x: 2, y: 2, width: 2, height: 1, direction: 'horizontal'},
         exitPosition: {x: 6, y: 2}
     },
-    '2024-08-07': {
+    '07.08.2024': {
         blocks: [
             {id: 1, x: 0, y: 0, width: 1, height: 2, direction: 'vertical', color: 'red'},
             {id: 2, x: 2, y: 1, width: 1, height: 2, direction: 'vertical', color: 'red'},
