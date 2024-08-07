@@ -265,7 +265,7 @@ a:active {
 
 #refreshButton {
     display: flex;
-    align-items: flex-end;
+    align-items: center;
 }
 
 #refreshButton img {
