@@ -71,7 +71,7 @@ a:active {
     grid-template-rows: repeat(6, 55px);
     position: relative;
     border: 2px solid #555;
-    background-color: #2B272D;
+    background-color: #181718;
 }
 
 #grid::before {
@@ -122,23 +122,23 @@ a:active {
 }
 
 .red {
-    background-color: #ff0000;
-}
-
-.red .block-child {
     background-color: #640000;
 }
 
-.green {
-    background-color: #00ff00;
+.red .block-child {
+    background-color: #ff0000;
 }
 
-.green .block-child {
+.green {
     background-color: #006400;
 }
 
+.green .block-child {
+    background-color: #00ff00;
+}
+
 .key .block-child {
-    background-color: #3E3A29;
+    background-color: #ffff00;
 }
 
 .key {
