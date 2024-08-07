@@ -424,7 +424,7 @@ a:active {
 
 
 .hamster-theme .key .block-child {
-    background-image: url("hamster-key.png");
+    background-image: url("key.png");
     background-size: cover;
     border-radius: 1px;
     border: 1px solid #989B5D;
