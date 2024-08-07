@@ -223,7 +223,7 @@ a:active {
 }
 
 .button {
-    background-image: linear-gradient(92.88deg, #455EB5 9.16%, #5643CC 43.89%, #0000ff 64.72%);
+    background-image: linear-gradient(92.88deg, #455EB5 9.16%, #5643CC 43.89%, #0000ff 99.98%);
     border-radius: 8px;
     border-style: none;
     box-sizing: border-box;
