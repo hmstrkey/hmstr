@@ -6,6 +6,12 @@
 
 body {
     margin: 0;
+    paddint: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f0f0f0;
     font-family: 'Roboto', sans-serif;
     line-height: 1.6;
     font-size: 15px;
@@ -70,6 +76,8 @@ a:active {
     grid-template-columns: repeat(6, 55px);
     grid-template-rows: repeat(6, 55px);
     position: relative;
+    width: 330px; /* gridSize * blockSize */
+    height: 330px;
     border: 2px solid #555;
     background-color: #181718;
 }
