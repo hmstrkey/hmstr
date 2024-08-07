@@ -326,7 +326,6 @@ let exitPosition = {};
 let timeLeft = 29;
 
 const refreshButton = document.getElementById('refreshButton');
-const timerButton = document.getElementById('timerButton');
 let countdown;
 
 function getQueryParam(param) {
@@ -496,26 +495,7 @@ function checkWin(block) {
     }
 }
 
-timerButton.addEventListener('click', function () {
-    timerButton.textContent = `00:00:30`;
-    timerButton.disabled = true;
 
-    countdown = setInterval(() => {
-        if (timeLeft <= 0) {
-            clearInterval(countdown);
-            timerButton.textContent = `00:00:00`;
-
-            alert(':( Время вышло! Попробуйте еще раз!');
-            location.reload();
-        } else {
-            let prettyTime = timeLeft < 10 ? `0${timeLeft}` : timeLeft;
-            timerButton.textContent = `00:00:${prettyTime}`;
-            timeLeft--;
-        }
-    }, 1000);
-
-    timerButton.removeEventListener('click', arguments.callee); // Отключаем кнопку после первого нажатия
-});
 
 refreshButton.addEventListener('click', function () {
     location.reload();
