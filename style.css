@@ -184,13 +184,13 @@ a:active {
 }
 
 #caption-hamster {
-    color: #f1c40f;
+    color: #0000ff;
 
     font-weight: bold;
 }
 
 #caption-puzzle {
-    color: #D93334;
+    color: #0000ff;
 }
 
 .footer {
@@ -441,7 +441,7 @@ a:active {
 }
 
 .key-generator-link {
-    color: #f1c40f;
+    color: #0000ff;
     margin-left: 15px;
 }
 
