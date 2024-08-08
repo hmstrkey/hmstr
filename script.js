@@ -492,7 +492,7 @@ function checkWin(block) {
             timeText = `00:00:${prettyDiff}`;
         }
 
-        alert('Успех! Вы выиграли!' + (timeText ? ` Ваше время: ${timeText}` : ''));
+        alert('МИНИ-ИГРА ПРОЙДЕНА!');
         location.reload();
     }
 }
