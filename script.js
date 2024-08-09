@@ -2,7 +2,7 @@ const blockSize = 55;
 const gridSize = 6;
 
 const maps = {
-    '2024-08-09': {
+    '2024-08-10': {
         blocks: [
             {id: 1, x: 1, y: 0, width: 1, height: 2, direction: 'vertical', color: 'red'},
             {id: 2, x: 0, y: 3, width: 1, height: 3, direction: 'vertical', color: 'red'},
